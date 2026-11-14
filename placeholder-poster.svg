@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" fill="none">
+  <rect width="300" height="450" fill="#1a1a1a"/>
+  <path d="M150 150 C100 150 80 200 80 220 C80 240 100 250 120 240 C140 230 140 200 150 200 C160 200 160 230 180 240 C200 250 220 240 220 220 C220 200 200 150 150 150Z" fill="#2a2a2a"/>
+  <text x="150" y="290" text-anchor="middle" fill="#737373" font-family="sans-serif" font-size="16">لا توجد صورة</text>
+</svg>
